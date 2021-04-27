@@ -1,0 +1,2 @@
+ru/nsu/fit/korobova/Main.java
+ ru.nsu.fit.korobova.Main

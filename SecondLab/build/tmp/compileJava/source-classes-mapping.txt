@@ -1,0 +1,6 @@
+ru/nsu/fit/korobova/MapStatistics.java
+ ru.nsu.fit.korobova.MapStatistics
+ru/nsu/fit/korobova/Main.java
+ ru.nsu.fit.korobova.Main
+ru/nsu/fit/korobova/OsmParser.java
+ ru.nsu.fit.korobova.OsmParser
