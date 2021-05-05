@@ -1,0 +1,10 @@
+ru/nsu/fit/korobova/db/Database.java
+ ru.nsu.fit.korobova.db.Database
+ru/nsu/fit/korobova/models/Tag.java
+ ru.nsu.fit.korobova.models.Tag
+ru/nsu/fit/korobova/Main.java
+ ru.nsu.fit.korobova.Main
+ru/nsu/fit/korobova/generatedSheme/xjc/package-info.java
+ ru.nsu.fit.korobova.generatedSheme.xjc.package-info
+ru/nsu/fit/korobova/models/Node.java
+ ru.nsu.fit.korobova.models.Node
